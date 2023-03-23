@@ -1,5 +1,4 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/SkyCD/SkyCD.SCD_XSettings.dll/blob/main/LICENSE)
-[![NuGet version](https://badge.fury.io/nu/SkyCD.SCD_XSettings.dll.svg)](https://badge.fury.io/nu/SkyCD.SCD_XSettings.dll)
 
 # SkyCD.SCD_XSettings.dll
 
