@@ -1,3 +1,6 @@
+> [!WARNING]
+> This legacy library was used by SkyCD 1.0. It is unsupported and is not used by SkyCD 3.0 or later. This repository is archived.
+
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/SkyCD/SkyCD.SCD_XSettings.dll/blob/main/LICENSE)
 
 # SkyCD.SCD_XSettings.dll
